@@ -1,0 +1,8 @@
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\bin\Debug\EjercicioThreads.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\bin\Debug\EjercicioThreads.exe
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\bin\Debug\EjercicioThreads.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\obj\Debug\EjercicioThreads.Form1.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\obj\Debug\EjercicioThreads.Properties.Resources.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\obj\Debug\EjercicioThreads.csproj.GenerateResource.Cache
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\obj\Debug\EjercicioThreads.exe
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioThreads\EjercicioThreads\obj\Debug\EjercicioThreads.pdb
